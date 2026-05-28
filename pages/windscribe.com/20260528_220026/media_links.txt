@@ -1,0 +1,14 @@
+/assets/22115fc5-ab62-4260-81ca-88f4e29cf1d7.svg
+/assets/2bf7980e-c0af-48cd-af0b-2d39cf693834.svg
+/assets/344601c0-2013-45f2-ac7e-8fbb80043fb3.svg
+/assets/69e4514a-4dee-4ad0-b89d-f9182e4f271f.svg
+/assets/80c31ab5-ccf4-4df2-bcff-5fafbba1e5aa.svg
+/assets/a15be8f7-e681-47cd-b72e-832b4fb42081.svg
+/assets/ce4080a6-4355-4e58-b279-337bd74a8569.svg
+/favicon.ico
+/images/badge-logo.svg
+/images/chevron-right.svg
+/images/footer-image.svg
+/images/hamburger.svg
+/images/logo-app.svg
+/images/windscribe-logo-full.svg
